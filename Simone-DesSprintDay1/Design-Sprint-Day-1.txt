@@ -1,0 +1,26 @@
+﻿Scenarios
+
+
+Garett, an undergraduate student at UNCC, is looking for ways to build his resume. He would like to work at an indie game company after college. Garett hears about an app developed by some peers that could help him find opportunities related to CCI at UNCC. He finds that many game companies in the area are looking for a certain set of skills and capabilities. He uses what he finds there to make his own passion projects on GitHub, and puts those on his resume.
+
+
+Tanner is a freshman at UNCC, and doesn’t have much experience with coding. He knows he enjoys writing code, and wants to work in the tech industry some day. Tanner has trouble finding opportunities or friends to help guide him through his CCI journey, but he hears about an app in one of his courses. He downloads it and starts attending talks held by instructors and graduate students at UNCC. He expands his knowledge of CCI and begins networking within his department.
+
+
+User stories
+
+
+As a student, I want to be able to tailor my resume to give me the best opportunities at landing a job after university.
+
+
+As an instructor, I want my students to be able to connect with one another and share ideas that will help them grow their portfolios. 
+
+
+Feature list
+
+
+- Project recommendation feature
+- Event/opportunity calendar
+- Internship feature
+- Communication and chat features
+
